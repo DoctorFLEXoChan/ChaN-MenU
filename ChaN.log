@@ -1,0 +1,36 @@
+[03:25:46] Initialize: ChaN MenU
+[03:25:46] 
+
+
+   _____ _           _   _ 
+  / ____| |         | \ | |
+ | |    | |__   __ _|  \| |
+ | |    | '_ \ / _` | . ` |
+ | |____| | | | (_| | |\  |
+  \_____|_| |_|\__,_|_| \_|
+                           
+                           
+                                     
+                                              
+[03:25:46] Found: GS
+[03:25:46] Found: GNOE
+[03:25:46] Found: GLT
+[03:25:46] Found: SGE
+[03:25:46] Found: FC
+[03:25:46] Found: WP
+[03:25:46] Found: GB
+[03:25:46] Found: MSB
+[03:25:46] Found: GPN
+[03:25:46] Found: NS
+[03:25:46] Found: SVR
+[03:25:46] Found: NRT
+[03:25:46] Hooked: GNOE
+[03:25:46] Hooked: GLT
+[03:25:46] Hooked: SGE
+[03:26:05] Cleaning up hooks
+[03:26:05] Successfully disabled hook 00007FF603837854
+[03:26:05] Successfully disabled hook 00007FF603881DB8
+[03:26:06] Successfully disabled hook 00007FF603C75634
+[03:26:06] Successfully removed hook 00007FF603837854
+[03:26:06] Successfully removed hook 00007FF603881DB8
+[03:26:06] Successfully removed hook 00007FF603C75634
